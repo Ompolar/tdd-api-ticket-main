@@ -3,7 +3,6 @@
     "use_env_variable": "POSTGRES_URL",
     "dialect": "postgres",
     "protocol": "postgres"
-    }
   },
   "test": {
     "username": "postgres",
